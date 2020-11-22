@@ -1,7 +1,8 @@
 # automation to open up all the neccesary website/text editor during a competitive programming competition
 
-import request,webbrowser,sys
+import webbrowser
 
-# TODO: find the url of the website (code forces)
-# TODO: open the webbrower
+# find the url of the website (code forces) and open it in webbrowser
+webbrowser.open("https://codeforces.com/problemset?tags=900-900")
+
 # TODO: open a .cpp file with text editor (sublime text)
