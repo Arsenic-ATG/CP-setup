@@ -21,3 +21,4 @@ else:
     try:
         os.system("open test.cpp")
     except OSError:
+    	raise Exception("Sorry, The program doesn't support your operating system right now.")
