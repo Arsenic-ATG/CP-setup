@@ -1,3 +1,6 @@
+# File generated during testing process
+test.cpp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
