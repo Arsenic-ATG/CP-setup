@@ -1,6 +1,9 @@
 # automation to open up all the neccesary website/text editor during a competitive programming competition
 import webbrowser,os
 
+# TODO : Ask the user the name of the cpp file while whill be created as command line arguments
+# TODO : currently I am assumning the file would be in current directory only will have to change it afterwords
+
 # find the url of the website (code forces) and open it in webbrowser
 webbrowser.open("https://codeforces.com/problemset?tags=900-900")
 
