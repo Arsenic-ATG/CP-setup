@@ -1,6 +1,9 @@
 # CP-setup { 👷‍♂️Under construction }
 Automation to make my pc ready for competitive programming
 
+<!--- how to get it running --->
+<!--- prerequisits --->
+
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
