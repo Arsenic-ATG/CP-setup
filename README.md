@@ -17,8 +17,6 @@ What does the automation does right now : -
 - Run the python script :
 
 ## How to contribute ? : -
-
-## How to contribute ? : -
 - Head over to [issues](https://github.com/Arsenic-ATG/CP-setup/issues) section
 - Pick one issue ( or create one if you want to do work on something else )
 - Ask to get assigned
