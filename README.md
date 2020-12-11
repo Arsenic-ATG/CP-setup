@@ -1,8 +1,24 @@
-# CP-setup { 👷‍♂️Under construction }
-Automation to make my pc ready for competitive programming
+# CP-setup
+Automation to make my PC ready for competitive programming
 
-<!--- how to get it running --->
-<!--- prerequisits --->
+What does the automation does right now : -
+1. opens the competitive prgramming website ( codeforces ) in your default webbrowser
+2. creates a new file cpp file `../cp/test.cpp` and opens it in your default text editor
+
+## Language used
+- 🐍 python
+
+### Setup required 🛠
+- Most of the stuff is plain python scripts which will only require you to have **python installed on your device** and an **IDE/text editor** to see and make changes to the scripts on your system.
+- If you don't have python on your machine then you can download it from [here](https://www.python.org/downloads/)
+
+## 🏃‍♀️Get it running🏃‍♂️
+- 👯‍♂️Clone/Download the repo
+- Run the python script :
+
+### Liked it ? 😃
+- If you like this project then don't forget to give a star ⭐️
+- For more automations like this you can head over to my [python automations](https://github.com/Arsenic-ATG/Python-Automations) repo
 
 ## License
 
