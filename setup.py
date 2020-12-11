@@ -2,7 +2,6 @@
 import webbrowser,os
 
 # TODO : Ask the user the name of the cpp file while whill be created as command line arguments
-# TODO : currently I am assumning the file would be in current directory only will have to change it afterwords
 
 # find the url of the website (code forces) and open it in webbrowser
 webbrowser.open("https://codeforces.com")
