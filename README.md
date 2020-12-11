@@ -16,6 +16,13 @@ What does the automation does right now : -
 - 👯‍♂️Clone/Download the repo
 - Run the python script :
 
+## How to contribute ? : -
+- Head over to [issues](https://github.com/Arsenic-ATG/CP-setup/issues) section
+- Pick one issue
+- Ask to get assigned
+- work on it
+- create a PR
+
 ### Liked it ? 😃
 - If you like this project then don't forget to give a star ⭐️
 - For more automations like this you can head over to my [python automations](https://github.com/Arsenic-ATG/Python-Automations) repo
