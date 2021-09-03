@@ -9,9 +9,9 @@ void input(std::vector<int> &v,int n)
 {
 	for (int i = 0; i < n; ++i)
 	{
-		int ele;
-		std::cin>>ele;
-		v.push_back(ele);
+		int e;
+		std::cin>>e;
+		v.push_back(e);
 	}
 }
 
